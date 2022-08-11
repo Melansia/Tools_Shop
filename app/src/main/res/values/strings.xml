@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Tools Shop</string>
     <string name="logo_descriptions">Logo of instruments shop</string>
+    <string name="drill_logo">Drill logo</string>
 
     <string-array name="tools">
         <item>Drills</item>
@@ -8,4 +9,12 @@
         <item>Grinders</item>
         <item>Hammers</item>
     </string-array>
+
+    <string name="drill_interskol_title">Interskol Drill</string>
+    <string name="drill_makita_title">Makita Drill</string>
+    <string name="drill_dewalt_title">DeWALT Drill</string>
+
+    <string name="drill_interskol_info">Interskol Drill provides excellent control, which is guaranteed by an electronic speed control system. Among other things, you can take advantage of a reliable and convenient switch manufactured by Holland. The handle is very ergonomic, it is convenient when performing a large amount of work and effectively reduces operator fatigue.</string>
+    <string name="drill_makita_info">Makita has long been known as one of the leading power tool brands on the market. The brand carries a very well-rounded series with different models to choose from. Drills can be divided into two categories; corded and cordless drills.</string>
+    <string name="drill_dewalt_info">DeWALT Drill and grinders come equipped with the Anti-Rotation E-CLUTCH® System. Compared to standard clutches, E-CLUTCH® helps minimize sudden torque reaction in drills by detecting the motion of the tool and shutting it down in bind-up situations. In grinders, E-CLUTCH® shuts the motor down in under a tenth of a second when a pinch/stall is detected.</string>
 </resources>
