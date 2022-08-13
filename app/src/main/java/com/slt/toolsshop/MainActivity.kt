@@ -28,6 +28,10 @@ class MainActivity : AppCompatActivity() {
                     val intent = Intent(applicationContext, DrillCategoryActivity::class.java)
                     startActivity(intent)
                 }
+                1 -> {
+                    val intent = Intent(applicationContext, CutterCategoryActivity::class.java)
+                    startActivity(intent)
+                }
             }
             Toast.makeText(applicationContext, "Position: $position", Toast.LENGTH_SHORT).show()
         })

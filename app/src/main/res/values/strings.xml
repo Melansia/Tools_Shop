@@ -5,7 +5,7 @@
 
     <string-array name="tools">
         <item>Drills</item>
-        <item>Perforators</item>
+        <item>Cutters</item>
         <item>Grinders</item>
         <item>Hammers</item>
     </string-array>
@@ -19,4 +19,18 @@
     <string name="drill_dewalt_info">DeWALT Drill and grinders come equipped with the Anti-Rotation E-CLUTCH® System.Drills can be divided into two categories; corded and cordless drills. Compared to standard clutches, E-CLUTCH® helps minimize sudden torque reaction in drills by detecting the motion of the tool and shutting it down in bind-up situations.Drill provides excellent control, which is guaranteed by an electronic speed control system. In grinders, E-CLUTCH® shuts the motor down in under a tenth of a second when a pinch/stall is detected.</string>
 
     <string name="drill_photo_description">Drill photo</string>
+    <string name="drill_photo">Drill image</string>
+
+    <string name="cutters_dewalt_title">DeWALT Cutters</string>
+    <string name="cutters_knipex_title">Knipex Cutters</string>
+    <string name="cutters_unior_title">Unior Cutters</string>
+
+    <string name="cutters_photo_description">Cutters photo</string>
+    <string name="cutters_photo">Cutter image</string>
+    <string name="cutters_logo">Cutter logo</string>
+
+    <string name="cutters_unior_info">High quality diagonal cutter with bevelled cutting edge and double hinged design. Soft grip comfortable design is ideal for repititive and hard cutting jobs.. Among other things, you can take advantage of a reliable and convenient switch manufactured by Holland. In grinders, E-CLUTCH® shuts the motor down in under a tenth of a second when a pinch/stall is detected. The handle is very ergonomic, it is convenient when performing a large amount of work and effectively reduces operator fatigue.</string>
+    <string name="cutters_knipex_info">High quality diagonal cutter with bevelled cutting edge and double hinged design. Soft grip comfortable design is ideal for repititive and hard cutting jobs. has long been known as one of the leading power tool brands on the market. The brand carries a very well-rounded series with different models to choose from.Drill provides excellent control, which is guaranteed by an electronic speed control system. Among other things, you can take advantage of a reliable and convenient switch manufactured by Holland. Drills can be divided into two categories; corded and cordless drills.</string>
+    <string name="cutters_dewalt_info">DeWALT cutters come equipped with the Anti-Rotation E-CLUTCH® System.Drills can be divided into two categories; corded and cordless drills. Compared to standard clutches, E-CLUTCH® helps minimize sudden torque reaction in drills by detecting the motion of the tool and shutting it down in bind-up situations.Drill provides excellent control, which is guaranteed by an electronic speed control system. In grinders, E-CLUTCH® shuts the motor down in under a tenth of a second when a pinch/stall is detected.</string>
+
 </resources>

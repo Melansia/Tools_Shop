@@ -2,4 +2,6 @@
 <resources>
     <string name="logo_descriptions">Logo of instruments shop</string>
     <string name="drill_photo_description">Drill photo</string>
+    <string name="cutter_photo_description">Cutter image</string>
+    <string name="cutter_logo">Cutter logo</string>
 </resources>
